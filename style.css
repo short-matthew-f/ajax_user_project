@@ -137,6 +137,11 @@
 
 .comment-list h3 {
   margin-bottom: 12px;
+  display: none;
+}
+
+.comments-open h3 {
+  display: block;
 }
 
 #album-list {
